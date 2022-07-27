@@ -6,7 +6,7 @@
 </div>
   
 - 🔭 Eu trabalho com html css e javascript ...
-**Desernvolvimento front-end**
+**Desenvolvimento front-end**
 
 | Front-end    | Framework       |
 | ------------ | --------------- |
