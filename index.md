@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Bem vindo a minha pagina no GitHub
 
-You can use the [editor on GitHub](https://github.com/criarsite/criarsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Olá, eu sou a Washington, Programador Web e estudante de novas tecnologia!
+<div align="center">
+  <a href="https://github.com/criarsite">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=criarsite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criarsite&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+- 🔭 Eu trabalho com html css e javascript ...
+**Desernvolvimento front-end**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Front-end    | Framework       |
+| ------------ | --------------- |
+| HTML         | Angular         |
+| CSS          | Vue.js          |
+| Javascript   | Bootstrap       |
 
-### Markdown
+- 🌱 Estou estudando C# .Net ...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**C# DEVELOPER**
 
-```markdown
-Syntax highlighted code block
+| C#            | Web          | Mobile        |
+|:-------------:|:-----------: | :------------:|
+| ✅ .NET       | ✅ Asp.Net  | ✅ .Net Maui  |
 
-# Header 1
-## Header 2
-### Header 3
+ 
 
-- Bulleted
-- List
+Este é um link em linha para [contato](https://www.linkedin.com/in/criarsite/./).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/criarsite/criarsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div style="display: inline_block"><br>
+  <img align="center" alt="criarsite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="criarsite-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="criarsite-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="criarsite-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="criarsite-Csharp" height="30" width="40" src="https://avatars.githubusercontent.com/u/9141961">
+ </div>
+ 
