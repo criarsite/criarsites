@@ -8,7 +8,7 @@
  
  
 ✅ C# .NET 
-✅ Asp.Net MVC  
+✅ Asp.Net MVC 
 ✅ Blazor
 
  
