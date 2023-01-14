@@ -1,9 +1,7 @@
 ## Olá, eu sou a Washington, C# Net Developer e estudante de novas tecnologia!
 <div align="center">
-  <a href="https://github.com/criarsite">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=criarsite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criarsite&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <a href="https://criarsite.github.io/">
+ </div>
   
 
 ** Fullstack Blazor Developer **
