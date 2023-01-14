@@ -7,9 +7,9 @@
 ** Fullstack Blazor Developer **
 ..
 
-| C#            | Web                         | Mobile        |
-|:------------ :|:-------------------------:  | :------------:|
-| ✅C# .NET     | ✅ Asp.Net MVC  ✅ Blazor | ✅ .Net Maui  |
+| C#            | Web                         | Mobile        |..
+|:------------ :|:-------------------------:  | :------------:|..
+| ✅C# .NET     | ✅ Asp.Net MVC  ✅ Blazor | ✅ .Net Maui  |..
  
  
 
