@@ -5,11 +5,12 @@
   
 
 ** Fullstack Blazor Developer **
-..
+ 
+ 
+✅ C# .NET 
+✅ Asp.Net MVC  
+✅ Blazor
 
-| C#            | Web                         | Mobile        |..
-|:------------ :|:-------------------------:  | :------------:|..
-| ✅C# .NET     | ✅ Asp.Net MVC  ✅ Blazor | ✅ .Net Maui  |..
  
  
 
