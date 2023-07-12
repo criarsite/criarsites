@@ -1,4 +1,4 @@
-## Olá, eu sou a Washington, C# Net Developer e estudante de novas tecnologia!
+## Olá, eu sou a Washington, .Net Developer e estudante de novas tecnologia!
 <div align="center">
   <a  alt="desenvolvedor .net portugal" title=" developer .net portugal" href="https://criarsite.github.io/">
  </div>
