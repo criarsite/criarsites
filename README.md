@@ -24,5 +24,9 @@ Este é um link em linha para [contato](https://www.linkedin.com/in/criarsite/./
     <img align="center" alt="criarsite-Csharp" height="30" width="40" src="https://avatars.githubusercontent.com/u/9141961">
  </div>
 <br>
+<a target="_blank" rel="opener referrer follow" href="https://linkding.com/in/criarsite" alt".net developer, blazor, blazor developer, blazor portugal" title=".net developer portugal"><img src="https://camo.githubusercontent.com/0d14740a0852f8ef26fb00d00db97ff877d515d86bc7f27d69160a841522a54f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6372696172736974652f636f756e742e737667" alt".net developer, blazor, blazor developer, blazor portugal" title=".net developer portugal"  data-canonical-src="https://profile-counter.glitch.me/criarsite/count.svg" style="max-width: 100%;"></a></p>
+
+ 
+<br>
 
 ![Visitor Count](https://profile-counter.glitch.me/criarsite/count.svg)
