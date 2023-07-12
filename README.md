@@ -11,7 +11,7 @@
 ✅ Asp.Net MVC 
 ✅ Blazor
 
-
+ 
  
 
 Este é um link em linha para [contato](https://www.linkedin.com/in/criarsite/./).
