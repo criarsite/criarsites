@@ -11,7 +11,7 @@
 ✅ Asp.Net MVC 
 ✅ Blazor
 
- 
+ ![Visitor Count](https://profile-counter.glitch.me/criarsite/count.svg)
  
 
 Este é um link em linha para [contato](https://www.linkedin.com/in/criarsite/./).
