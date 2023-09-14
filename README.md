@@ -24,3 +24,9 @@ Contato [Go Developer](https://www.linkedin.com/in/criarsite/./).
 
  
  
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=criarsite&show_icons=true&theme=midnight-purple">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criarsite&layout=compact&theme=midnight-purple">
+
+</div>
