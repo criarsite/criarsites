@@ -4,7 +4,7 @@
  </div>
   
 
- ✅**Golang | C#.Net | Angular | Blazor  **✅
+ ✅Golang | C#.Net | Angular | Blazor  ✅
  <img align="center" alt="desenvolvedor golang portugal" title="golang fullstack developer portugal" height="auto" width="400px" src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/3478773144ed1d8fe4081f205933752631529e9f/svg/golang_3.svg">
  
 
